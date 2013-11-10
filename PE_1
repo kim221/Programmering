@@ -1,0 +1,3 @@
+console.log("Hej");
+var myName = prompt("Tell me your name");
+
